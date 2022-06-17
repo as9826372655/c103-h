@@ -1,0 +1,10 @@
+.name_of_object{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}
+body{
+    background-color: rgb(255, 0, 247); 
+}
+p{
+    color: rgb(255, 255, 255);
+}
